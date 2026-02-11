@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pixeltable
+.pixeltable/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/

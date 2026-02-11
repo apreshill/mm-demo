@@ -1,0 +1,11 @@
+[project]
+name = "mm-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipywidgets>=8.1.8",
+    "pixeltable>=0.5.17",
+    "twelvelabs>=1.1.0",
+]

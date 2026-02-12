@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipywidgets>=8.1.8",
+    "pillow>=12.1.1",
     "pixeltable>=0.5.17",
     "twelvelabs>=1.1.0",
 ]
